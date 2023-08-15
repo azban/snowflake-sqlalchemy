@@ -1,3 +1,0 @@
-[submodule "tests/connector_regression"]
-	path = tests/connector_regression
-	url = https://github.com/snowflakedb/snowflake-connector-python.git
